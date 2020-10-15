@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "POLYGON - City Pack",
+      "message": {
+        "embeds": [
+          {
+            "title": "POLYGON - City Pack | 3D Urban | Unity Asset Store",
+            "description": "A low poly asset pack of characters, buildings, props, vehicles and environment assets to create a city based polygonal style game\n\n**Key Features**\n- 331 Assets included in this pack\n- Demo scene included\n- Modular sections are easy to piece together in a variety of combinations\n- Alternative texture colors\n- Includes Collision\n",
+            "color": 65307,
+            "fields": [
+              {
+                "name": "Check out the link below to find more information:",
+                "value": "https://assetstore.unity.com/packages/3d/environments/urban/polygon-city-pack-95214"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-10-15T03:17:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a377761f-029b-4dea-9a80-55550b39e4d3.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
